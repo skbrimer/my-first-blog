@@ -1,14 +1,16 @@
 h1 a, h2 a {
 	color: #C25100;
-	font-family: 'Lobster';
+	font-family: 'Roboto';
 }
 
 body {
 	padding-left: 15px;
+	font-family: 'Roboto', sans-serif;
+	font-family: 'Open Sans', sans-serif;
 }
 
 .page-header {
-    background-color: #C25100;
+    background-color: #32CD32;
     margin-top: 0;
     padding: 20px 20px 20px 40px;
 }
@@ -19,12 +21,16 @@ body {
     text-decoration: none;
 }
 
+.page-header h2 {
+	color: #ffffff;
+}
+
 .content {
     margin-left: 40px;
 }
 
 h1, h2, h3, h4 {
-    font-family: 'Lobster', cursive;
+    font-family: 'Roboto', regular;
 }
 
 .date {
